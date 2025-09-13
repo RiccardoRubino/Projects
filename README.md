@@ -1,2 +1,2 @@
 # Projects
-In questa repository ho caricato tutti i progetti a cui ho larovato durante il percorso di studi universitari
+In questa repository ho caricato tutti i progetti a cui ho lavorato durante il percorso di studi universitari
